@@ -1,0 +1,29 @@
+
+.btnColor{
+    background-color: #6c757d;
+    color:#fae2e2;
+}
+.medida{
+    margin-bottom: 25px;
+}
+.linearosa1{
+    width: 100%;
+    height: 50px;
+    background-color: #f25252;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 15px;
+    color:#fae2e2;
+}
+.linearosa2{
+    width: 100%;
+    height: 150px;
+    background-color: #f25252;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 50px;
+    color:#fae2e2;
+}
+#uno:hover{ 
+    color:#f6c270; /*PARA PONER OTRO COLOR AL TENER EL MAUS ENCIMA*/
+} 
